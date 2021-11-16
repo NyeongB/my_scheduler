@@ -1,4 +1,4 @@
-package com.ccn.my_scheduler.my_scheduler;
+package com.ccn.my_scheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -8,7 +8,7 @@
 //         연결이 필요할 때 마다 객체를 생성하는 것이 아니라
 //		   한 번 연결된 객체를 계속 사용할 수 있도록 처리.  ex) 화장실 키 하나 걸어두는 것
 
-package com.ccn.my_scheduler.my_scheduler;
+package com.ccn.my_scheduler;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

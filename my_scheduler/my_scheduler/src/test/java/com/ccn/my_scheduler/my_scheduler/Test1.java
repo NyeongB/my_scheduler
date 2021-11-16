@@ -2,6 +2,8 @@ package com.ccn.my_scheduler.my_scheduler;
 
 import java.sql.Connection;
 
+import com.ccn.my_scheduler.DBConn;
+
 public class Test1 {
 	
 	public static void main(String[] args) {

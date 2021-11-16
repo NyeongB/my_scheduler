@@ -4,6 +4,8 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+import com.ccn.my_scheduler.DBConn;
+
 
 
 public class Test2 {
